@@ -2,7 +2,7 @@
 
 /* Apply styles to the holder to center item-1 */
 .holder {
-  display: flex; /* Set the holder as a flex container */
+  display: flex !important;  /* Set the holder as a flex container */
   justify-content: center; /* Center along the horizontal axis (X-axis) */
   align-items: center; /* Center along the vertical axis (Y-axis) */
   width: 100vw; /* Take the full viewport width */
