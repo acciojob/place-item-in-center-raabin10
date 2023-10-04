@@ -3,16 +3,14 @@
 .holder{
 
 	display: flex;
+	justify-content: center;
 	align-items:center;
-	
-  justify-content: center;
-	width:100vw;
-	height:100vw;
 }
-.item-1
+  
+	.item-1
 {
 	width:100px;
-	height:100px;
+	heig:100px;
 	background:red;
 	
 
