@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.holder{
+
+	 
+	width:100vw;
+	height:100vw;
+}
+.item-1
+{
+	width:100px;
+	heigth:100px;
+	display: flex;
+    align-items: center;
+	
+
+  justify-content: center;
+	
+}
